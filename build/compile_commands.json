@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/xzcc/chat/src/server/chatserver.cpp",
+  "file": "/home/xzcc/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/xzcc/chat/src/server/chatservice.cpp",
+  "file": "/home/xzcc/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/xzcc/chat/src/server/main.cpp",
+  "file": "/home/xzcc/chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/xzcc/chat/src/server/db/db.cpp",
+  "file": "/home/xzcc/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/xzcc/chat/src/server/model/friendmodel.cpp",
+  "file": "/home/xzcc/chat/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/xzcc/chat/src/server/model/groupmodel.cpp",
+  "file": "/home/xzcc/chat/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/xzcc/chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/xzcc/chat/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/xzcc/chat/src/server/model/usermodel.cpp",
+  "file": "/home/xzcc/chat/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/server",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model -I/home/xzcc/chat/include/server/redis  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/xzcc/chat/src/server/redis/redis.cpp",
+  "file": "/home/xzcc/chat/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/xzcc/chat/build/src/client",
+  "command": "/usr/bin/c++   -I/home/xzcc/chat/thirdparty -I/home/xzcc/chat/include -I/home/xzcc/chat/include/server -I/home/xzcc/chat/include/server/db -I/home/xzcc/chat/include/server/model  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/xzcc/chat/src/client/main.cpp",
+  "file": "/home/xzcc/chat/src/client/main.cpp"
+}
+]
